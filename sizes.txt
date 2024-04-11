@@ -1,0 +1,57 @@
+#sun{
+    height:12vmin;
+    width:12vmin;
+}
+
+#moon{
+    height:1vmin;
+    width: 1vmin;
+    background-color: white;
+}
+
+#belt {
+    height: 115vmin;
+    width: 115vmin;
+    animation: spin 50s infinite linear;
+}
+
+#mercury{
+    height:2vmin;
+    width:2vmin;
+}
+
+#venus{
+    height:3vmin;
+    width:3vmin;
+}
+
+#earth{
+    height:4vmin;
+    width:4vmin;
+}
+
+#mars{
+    height:3.5vmin;
+    width:3.5vmin;
+}
+
+#jupiter{
+    height:8vmin;
+    width:8vmin;
+}
+
+#saturn{
+    height:12vmin;
+    width:12vmin;
+    border-radius:0%;
+}
+
+#uranus{
+    height:6vmin;
+    width:6vmin;
+}
+
+#neptune{
+    height:5vmin;
+    width:5vmin;
+}
